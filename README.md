@@ -4,3 +4,5 @@ My name is Natan, I'm a Brazilian boy studying IT. Currently, I'm enrolled in th
 
 - 📫 How to reach me: my primary email for easier contact is: natangraffi@gmail.com
 - ⚡ Fun fact: I used to study physiotherapy at college.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
