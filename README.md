@@ -1,6 +1,6 @@
 Hi there!👋 - Oláá!
 
-  Meu nome é Natan, sou um jovem estudande de TI Brasileiro. Atualmente, participo do Santander Bootecamp 2024 - Backend with JAVA, e também curso Fuindamentos do suporte técnico na plataforma COURSERA ofertado pela GOOGLE com a JA Brasil 2024 e cursando anlise e desenvolvimento de sistemas na faculdade. Sou familiarizado com as linguagens de programação:
+  Meu nome é Natan, sou um jovem estudande de TI Brasileiro. Atualmente, participo do Santander Bootecamp 2024 - Backend JAVA, Fundamentos do suporte técnico na plataforma COURSERA ofertado pela GOOGLE em parceria com a JA Brasil 2024 e Analise e Desenvolvimento de Sistemas na faculdade Ritter dos Reis. Sou familiarizado com as linguagens de programação:
 
   (⚡ Fato engraçado: eu fazia faculdade de fisioterapia e parei na metade do curso para estudar ADS.)
 
