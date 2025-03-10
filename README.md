@@ -1,13 +1,12 @@
 Hi there!👋 - Oláá!
 
-  Meu nome é Natan, sou um jovem estudande de TI Brasileiro. Atualmente, participo do Santander Bootecamp 2024 - Backend JAVA, Fundamentos do suporte técnico na plataforma COURSERA ofertado pela GOOGLE em parceria com a JA Brasil 2024 e Analise e Desenvolvimento de Sistemas na faculdade Ritter dos Reis. Sou familiarizado com as linguagens de programação:
-
-  (⚡ Fato engraçado: eu fazia faculdade de fisioterapia e parei na metade do curso para estudar ADS.)
+  Meu nome é Natan, sou um jovem estudante Brasileiro de Tecnologia da Informação. Atualmente, estudo Ciência da Computação na Faculdade Atitus de Porto Alegre e possuo formação pelo Santander Bootcamp backend em JAVA. Estou familiarizado com as linguagens de programação:
+  (⚡ Fato engraçado: eu fazia faculdade de fisioterapia e parei na metade do curso para entrar para a área de tecnologia.)
 
 ENGLISH DESCRIPTION:
-  My name is Natan, I'm a Brazilian boy studying IT. Currently, I'm enrolled in the Santander Bootcamp 2024 - Backend with Java, and I'm also studying Foundations of Technical Support on the COURSERA platforme by GOOGLE sponsorship with JA Brasil 2024 and studying analysis and systems development at college. I am familiar with the programming languages:
+  My name is Natan, I am a young Brazilian Information Technology student. I am currently studying Computer Science at Faculdade Atitus in Porto Alegre and I have a degree in backend JAVA from Santander Bootcamp. I am familiar with programming languages:
 
-  (⚡ Funny fact: I was studying physical therapy in college and I dropped out halfway through to study Systems Analysis and Development.)
+  (⚡ Fun fact: I was studying physiotherapy in college and I dropped out halfway through the course to go into technology.)
   
 
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
