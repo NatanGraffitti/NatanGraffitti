@@ -1,6 +1,7 @@
 Hi there!👋 - Oláá!
 
   Meu nome é Natan, sou um jovem estudante Brasileiro de Tecnologia da Informação. Atualmente, estudo Ciência da Computação na Faculdade Atitus de Porto Alegre e possuo formação pelo Santander Bootcamp backend em JAVA. Estou familiarizado com as linguagens de programação:
+  
   (⚡ Fato engraçado: eu fazia faculdade de fisioterapia e parei na metade do curso para entrar para a área de tecnologia.)
 
 ENGLISH DESCRIPTION:
