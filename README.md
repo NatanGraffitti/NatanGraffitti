@@ -1,4 +1,4 @@
-Hi there!👋 - Oláá!
+Hi there!👋 - Olá!
 
   Meu nome é Natan, sou um jovem estudante Brasileiro de Tecnologia da Informação. Atualmente, estudo Ciência da Computação na Faculdade Atitus de Porto Alegre e possuo formação pelo Santander Bootcamp backend em JAVA. Estou familiarizado com as linguagens de programação:
   
@@ -24,8 +24,10 @@ ENGLISH DESCRIPTION:
   (⚡ Fun fact: I was studying physiotherapy in college and I dropped out halfway through the course to go into technology.)
 
 
-  📫 Contact me in:
-  Fale comigo pelo:
+  📫 Fale comigo pelo:
+  
+  Contact me in:
+  
 
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551994253454)
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natangraffitti/)
