@@ -1,6 +1,8 @@
 <h2 align="center"> Hi there! - Olá! 👋 </h2>
 
-  Meu nome é Natan, sou um jovem estudante Brasileiro de Tecnologia da Informação. Atualmente, estudo Ciência da Computação na Faculdade Atitus de Porto Alegre e possuo formação pelo Santander Bootcamp backend em JAVA. Estou familiarizado com as linguagens de programação:
+  Sou estudante de Ciência da Computação, com formação complementar pelo Santander Bootcamp na área de desenvolvimento backend em Java. Tenho conhecimentos em linguagens como Java, JavaScript, Python, HTML/CSS e C#. Sou apaixonado por resolver problemas com código, aprender novas tecnologias e trabalhar em equipe. Estou em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior para aplicar na prática tudo o que venho estudando e contribuir com projetos reais em ambientes colaborativos.
+
+🚀 Se você procura alguém com boa base técnica, comprometido e com muita vontade de aprender e evoluir na área de tecnologia, vamos conversar!
   
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -14,7 +16,9 @@
 
 <h4 align="center"> **ENGLISH DESCRIPTION:** </h4>
 
-  My name is Natan, I am a young Brazilian Information Technology student. I am currently studying Computer Science at Faculdade Atitus in Porto Alegre and I have a degree in backend JAVA from Santander Bootcamp. I am familiar with programming languages:
+  I’m a Computer Science student with additional training from the Santander Bootcamp focused on Java backend development. I have knowledge of programming languages such as Java, JavaScript, Python, HTML/CSS, and C#. I'm passionate about solving problems through code, learning new technologies, and working in collaborative environments. I’m currently seeking my first opportunity as an intern or junior developer to apply my skills in real-world projects and grow as a professional.
+
+🚀 If you're looking for someone with a solid technical foundation, a strong willingness to learn, and high motivation to grow in tech, let’s connect!
 
    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
